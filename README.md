@@ -48,17 +48,17 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100009491629403" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100009491629403" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/923061668012" target="_blank">
+  <a href="https://wa.me/923061668012" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-1a862623b/?fbclid=IwAR1XTvgINGnO7b3xjN9XN1wL0foktsYZSQt3fG4Yq70SYvZI8uxk-VF9GPs" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-1a862623b/?fbclid=IwAR1XTvgINGnO7b3xjN9XN1wL0foktsYZSQt3fG4Yq70SYvZI8uxk-VF9GPs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
